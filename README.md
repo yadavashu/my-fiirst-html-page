@@ -1,2 +1,3 @@
-# my-fiirst-html-page
-Hello, i came to pull a request. ok bye.
+# My first html page
+This is a blank project right now, but hopefully not for long!
+
