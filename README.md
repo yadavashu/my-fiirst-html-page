@@ -1,2 +1,2 @@
 # my-fiirst-html-page
-Hello, i came to pull a request. ok bye.
+Hello, I came to pull a request. Ok bye.
